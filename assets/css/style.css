@@ -19,6 +19,8 @@ h1, h2 {
     color: #252525;
 }
 
+/* header elements */
+
 #logo {
     float: left;
     font-size: 280%;
@@ -50,4 +52,12 @@ h1, h2 {
 
 .active {
     border-bottom: 1px solid #3a3a3a;    
+}
+
+/*hero image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.webp') no-repeat center center;
 }
